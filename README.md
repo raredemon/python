@@ -1,2 +1,2 @@
 # python
-for python learning
+for python testing
